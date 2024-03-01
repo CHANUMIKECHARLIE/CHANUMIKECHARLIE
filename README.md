@@ -1,7 +1,7 @@
-- 👋 Hi, I’m CHANUBALA DEVI
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning new technologies.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👋 Hi, I’m CHANU BALA DEVI
+- 👀 FullStack Developer in Magicbricks.
+- 🌱 Proficient in Java, Springboot, MySQL, DSA.
+- 💞️ Open to learn new technologies.
 - 📫 How to reach me chanubaladevi@gmail.com
 
 <!---
